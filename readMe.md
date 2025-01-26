@@ -18,3 +18,5 @@ ammo from the counter to further simulate the gun. This effectively allows you t
 I hope you enjoy!
 
 P.S. I Recomend Using CTRL + Mouse Wheel to zoom out to fit the whole page.
+
+*[Website Link](https://gavinthegreat19.github.io/BuckshotCounter/)*
